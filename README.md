@@ -307,5 +307,5 @@ Bu proje eğitim ve araştırma amaçlıdır.
 **Not**: Bu proje Türkiye'nin 81 ili için yerel seçim tahminleri yapmaktadır. Sonuçlar tahminidir ve gerçek seçim sonuçlarını garanti etmez.
 
 **Versiyon**: 1.0.0  
-**Son Güncelleme**: 2024
+**Son Güncelleme**: 25.12.2025
 
