@@ -296,7 +296,7 @@ Model performansını artırmak için:
 
 ## 📧 İletişim
 
-Sorularınız veya önerileriniz için lütfen issue açın.
+Sorularınız veya önerileriniz için emre.celikkiran0@gmail.com mail adresine mail atabilirsiniz.
 
 ## 📄 Lisans
 
