@@ -1,0 +1,41 @@
+# Yapy Zeka - Türkiye Yerel Seçim Tahmin Sistemi
+# Python Bağımlılıkları
+
+# Web Dashboard Framework
+streamlit>=1.28.0
+
+# Veri İşleme
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Makine Öğrenmesi
+xgboost>=2.0.0
+scikit-learn>=1.3.0
+
+# Görselleştirme
+plotly>=5.17.0
+matplotlib>=3.7.0
+
+# Harita Görselleştirme
+folium>=0.14.0
+streamlit-folium>=0.15.0
+
+# Excel Dosyası Okuma
+openpyxl>=3.1.0
+
+# Eski .xls dosyalarını okuyabilmek için
+xlrd>=2.0.1
+
+# Görüntü İşleme
+Pillow>=10.0.0
+
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# HTML tablo okuma için
+lxml>=4.9.0
+
+# JSON İşleme (Python standart kütüphanesi ile birlikte gelir, ancak bazı projeler için)
+# json - Python built-in, eklenmesine gerek yok
+
